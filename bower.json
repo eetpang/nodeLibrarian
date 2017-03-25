@@ -1,0 +1,21 @@
+{
+  "name": "librarian",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "eetpang <eetpang@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/eetpang/nodeLibrarian",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
